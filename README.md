@@ -1,16 +1,29 @@
-# portfolio
+<h1 align="center">Portfolio</h1>
 
-A new Flutter project.
 
-## Getting Started
+<p align="center" width="100%">
+<img src="https://drive.google.com/uc?export=view&id=1DDsnRQRgrWUfO4je9IUJ1LdCQQJ36_3R" />
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<br>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+<!--- header ---->
+
+ 
+  
+  
+  
+ <!--- footer --->
+ <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> <!-- line breaker -->
+<p>
+
+ <a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/"  >connect with me</a><br><br>
+<a href="https://www.linkedin.com/in/adil-rahman-80b17a23a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/___i_am_iron_man/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a> <a href="https://twitter.com/bitbyte_1337" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="DEV.to"></a> <a href="https://medium.com/@adilrahman_1337" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="DEV.to"></a>
+
+</p>
+</div>
