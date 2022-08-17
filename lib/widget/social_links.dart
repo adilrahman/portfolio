@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:folio/configs/configs.dart';
-import 'package:folio/constants.dart';
-import 'package:folio/provider/app_provider.dart';
-import 'package:folio/responsive/responsive.dart';
-import 'package:folio/utils/utils.dart';
+import 'package:portfolio/configs/configs.dart';
+import 'package:portfolio/constants.dart';
+import 'package:portfolio/provider/app_provider.dart';
+import 'package:portfolio/responsive/responsive.dart';
+import 'package:portfolio/utils/utils.dart';
 import 'package:provider/provider.dart';
 
 class SocialLinks extends StatelessWidget {

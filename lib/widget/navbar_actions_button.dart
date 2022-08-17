@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:folio/animations/entrance_fader.dart';
-import 'package:folio/configs/configs.dart';
-import 'package:folio/provider/scroll_provider.dart';
+import 'package:portfolio/animations/entrance_fader.dart';
+import 'package:portfolio/configs/configs.dart';
+import 'package:portfolio/provider/scroll_provider.dart';
 import 'package:provider/provider.dart';
 
 class NavBarActionButton extends StatelessWidget {
