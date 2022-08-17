@@ -1,0 +1,18 @@
+The system is: Linux - 5.15.0-46-generic - x86_64
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /snap/flutter/current/usr/bin/clang++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+/snap/flutter/current/usr/bin/ld: warning: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crt1.o: unsupported GNU_PROPERTY_TYPE (5) type: 0xc0008002
+/snap/flutter/current/usr/bin/ld: warning: /lib/x86_64-linux-gnu/libm.so.6: unsupported GNU_PROPERTY_TYPE (5) type: 0xc0008002
+/snap/flutter/current/usr/bin/ld: warning: /lib/x86_64-linux-gnu/libmvec.so.1: unsupported GNU_PROPERTY_TYPE (5) type: 0xc0008002
+/snap/flutter/current/usr/bin/ld: warning: /lib/x86_64-linux-gnu/libc.so.6: unsupported GNU_PROPERTY_TYPE (5) type: 0xc0008002
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is Clang, found in "/home/adil/Desktop/git_testing_local/portfolio/build/linux/x64/debug/CMakeFiles/3.10.2/CompilerIdCXX/a.out"
+

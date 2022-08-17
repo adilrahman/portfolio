@@ -1,0 +1,16 @@
+Determining if the CXX compiler works failed with the following output:
+Change Dir: /home/adil/Desktop/git_testing_local/portfolio/build/linux/x64/debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"/snap/flutter/current/usr/bin/ninja" "cmTC_aef8e"
+[1/2] Building CXX object CMakeFiles/cmTC_aef8e.dir/testCXXCompiler.cxx.o
+[2/2] Linking CXX executable cmTC_aef8e
+FAILED: cmTC_aef8e 
+: && /snap/flutter/current/usr/bin/clang++    -L/snap/flutter/current/usr/lib/gcc/x86_64-linux-gnu/8 -L/snap/flutter/current/usr/lib/x86_64-linux-gnu -lblkid -lgcrypt -llzma -lpthread -ldl -L/snap/flutter/current/usr/lib/ CMakeFiles/cmTC_aef8e.dir/testCXXCompiler.cxx.o  -o cmTC_aef8e   && :
+/snap/flutter/current/usr/bin/ld: warning: /usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/crt1.o: unsupported GNU_PROPERTY_TYPE (5) type: 0xc0008002
+/usr/lib/gcc/x86_64-linux-gnu/11/../../../x86_64-linux-gnu/libgcc_s.so.1: undefined reference to `_dl_find_object@GLIBC_2.35'
+//lib/x86_64-linux-gnu/libgpg-error.so.0: undefined reference to `__libc_single_threaded@GLIBC_2.32'
+//lib/x86_64-linux-gnu/libgpg-error.so.0: undefined reference to `pthread_mutex_trylock@GLIBC_2.34'
+clang: error: linker command failed with exit code 1 (use -v to see invocation)
+ninja: build stopped: subcommand failed.
+
+
